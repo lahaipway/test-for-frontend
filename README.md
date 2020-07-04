@@ -59,7 +59,7 @@ git commit -m  "<tipo>( <alcance> ): detalle breve del cambio"
 ### Subida del proyecto
 
 1. Incialize el repositorio:
-      `git init`
+   `git init`
 
 2. Pull latest changes:
 
@@ -67,11 +67,11 @@ git commit -m  "<tipo>( <alcance> ): detalle breve del cambio"
 
 3. Cree una rama dev:
 
-    - `git checkout -b feature/dogs-control-panel-screen`
+   `git checkout -b feature/dogs-control-panel-screen`
 
 5. Subir cambios al repositorio:
 
-    `git push origin feature/dogs-control-panel-screen`
+   `git push origin feature/dogs-control-panel-screen`
 
 6. Abra una nueva Pull Request y asegurese de lo siguiente:
 
